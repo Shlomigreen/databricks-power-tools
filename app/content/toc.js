@@ -15,7 +15,7 @@ addStyle(`
 	background: #fff;
 	position: absolute;
 	top: 12px;
-	right: 10px;
+	right: 250px;
     max-width: 250px;
     text-align:right;
     display:block;
